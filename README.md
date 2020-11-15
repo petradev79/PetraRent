@@ -1,5 +1,5 @@
 # PetraRent
-PetraRent is responsive rent a car webpage template with HTML and SCSS
+PetraRent is responsive template for rent a car website
 - Responsive UI Design<br>
 - HTML and CSS from scratch<br>
 - Used CSS extension SCSS<br>
